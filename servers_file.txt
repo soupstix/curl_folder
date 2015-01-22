@@ -1,0 +1,257 @@
+[ {
+  "externalHostName" : "eqp000wo",
+  "externalIP" : "10.16.3.22",
+  "internalHostName" : "ip-10-16-3-22.us-west-2.compute.internal",
+  "internalIP" : "10.16.3.22",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ {
+      "name" : "Profile",
+      "value" : "AXPlatformAgentService"
+    }, {
+      "name" : "rpc.port",
+      "value" : "4526"
+    }, {
+      "name" : "http.management.port",
+      "value" : "8080"
+    }, {
+      "name" : "jmx.rmi.port",
+      "value" : "1099"
+    } ]
+  },
+  "type" : [ "qpid-server" ],
+  "uUID" : "840f628c-5935-4ba1-9187-5be7eb0247ff"
+}, {
+  "externalHostName" : "emgm001wo",
+  "externalIP" : "10.16.1.140",
+  "internalHostName" : "ip-10-16-1-140.us-west-2.compute.internal",
+  "internalIP" : "10.16.1.140",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ {
+      "name" : "Profile",
+      "value" : "ManagementServer"
+    }, {
+      "name" : "rpc.port",
+      "value" : "4526"
+    }, {
+      "name" : "http.management.port",
+      "value" : "8080"
+    }, {
+      "name" : "jmx.rmi.port",
+      "value" : "1099"
+    } ]
+  },
+  "type" : [ ],
+  "uUID" : "7e261274-8a06-48aa-a619-f4bbc555e88b"
+}, {
+  "externalHostName" : "emgm003wo",
+  "externalIP" : "10.16.1.34",
+  "internalHostName" : "ip-10-16-1-34.us-west-2.compute.internal",
+  "internalIP" : "10.16.1.34",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ {
+      "name" : "Profile",
+      "value" : "ManagementServer"
+    }, {
+      "name" : "rpc.port",
+      "value" : "4526"
+    }, {
+      "name" : "http.management.port",
+      "value" : "8080"
+    }, {
+      "name" : "jmx.rmi.port",
+      "value" : "1099"
+    } ]
+  },
+  "type" : [ "management-server" ],
+  "uUID" : "816a1096-e891-48c6-9c09-c2112a1c972d"
+}, {
+  "externalHostName" : "eqp001wo",
+  "externalIP" : "10.16.3.141",
+  "internalHostName" : "ip-10-16-3-141.us-west-2.compute.internal",
+  "internalIP" : "10.16.3.141",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ {
+      "name" : "Profile",
+      "value" : "AXPlatformAgentService"
+    }, {
+      "name" : "rpc.port",
+      "value" : "4526"
+    }, {
+      "name" : "http.management.port",
+      "value" : "8080"
+    }, {
+      "name" : "jmx.rmi.port",
+      "value" : "1099"
+    } ]
+  },
+  "type" : [ "qpid-server" ],
+  "uUID" : "dcdd42f8-cc78-4ab8-aa18-c68d789b6850"
+}, {
+  "internalHostName" : "ecc001wo",
+  "internalIP" : "10.16.1.5",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ ]
+  },
+  "type" : [ "reportcrud-datastore", "notification-datastore", "analytics-datastore", "application-datastore", "mint-datastore", "mint-rdbms-datastore", "apimodel-datastore", "user-settings-datastore", "audit-datastore", "taurus-datastore" ],
+  "uUID" : "dedcdacc-8eda-4ef6-adfc-47888fdbe01c"
+}, {
+  "internalHostName" : "ecc002wo",
+  "internalIP" : "10.16.1.135",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ ]
+  },
+  "type" : [ "reportcrud-datastore", "notification-datastore", "analytics-datastore", "application-datastore", "mint-datastore", "mint-rdbms-datastore", "apimodel-datastore", "user-settings-datastore", "audit-datastore", "taurus-datastore" ],
+  "uUID" : "e36099e9-198e-4737-a177-d62cb5a63814"
+}, {
+  "externalHostName" : "emg001wo",
+  "externalIP" : "10.16.1.137",
+  "internalHostName" : "ip-10-16-1-137.us-west-2.compute.internal",
+  "internalIP" : "10.16.1.137",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ {
+      "name" : "Profile",
+      "value" : "ManagementServer"
+    }, {
+      "name" : "rpc.port",
+      "value" : "4526"
+    }, {
+      "name" : "http.management.port",
+      "value" : "8080"
+    }, {
+      "name" : "jmx.rmi.port",
+      "value" : "1099"
+    } ]
+  },
+  "type" : [ "management-server" ],
+  "uUID" : "411eaaf9-599c-4798-829f-5e2861875443"
+}, {
+  "internalHostName" : "ecc003wo",
+  "internalIP" : "10.16.4.20",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ ]
+  },
+  "type" : [ "reportcrud-datastore", "notification-datastore", "analytics-datastore", "application-datastore", "mint-datastore", "mint-rdbms-datastore", "apimodel-datastore", "user-settings-datastore", "audit-datastore", "taurus-datastore" ],
+  "uUID" : "271cf43e-398c-4e77-a5df-c4d054d287a2"
+}, {
+  "externalHostName" : "emg000wo",
+  "externalIP" : "10.16.1.26",
+  "internalHostName" : "ip-10-16-1-26.us-west-2.compute.internal",
+  "internalIP" : "10.16.1.26",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ {
+      "name" : "Profile",
+      "value" : "ManagementServer"
+    }, {
+      "name" : "rpc.port",
+      "value" : "4526"
+    }, {
+      "name" : "http.management.port",
+      "value" : "8080"
+    }, {
+      "name" : "jmx.rmi.port",
+      "value" : "1099"
+    } ]
+  },
+  "type" : [ "management-server" ],
+  "uUID" : "e79f897a-9145-4142-8e05-a9572b3deb17"
+}, {
+  "externalHostName" : "emgm002wo",
+  "externalIP" : "10.16.1.33",
+  "internalHostName" : "ip-10-16-1-33.us-west-2.compute.internal",
+  "internalIP" : "10.16.1.33",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ {
+      "name" : "Profile",
+      "value" : "ManagementServer"
+    }, {
+      "name" : "rpc.port",
+      "value" : "4526"
+    }, {
+      "name" : "http.management.port",
+      "value" : "8080"
+    }, {
+      "name" : "jmx.rmi.port",
+      "value" : "1099"
+    } ]
+  },
+  "type" : [ "management-server" ],
+  "uUID" : "532cd1f8-37b3-4ac8-8924-c76496229988"
+}, {
+  "internalHostName" : "emgm001wo",
+  "internalIP" : "10.16.1.140",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ ]
+  },
+  "type" : [ "management-server" ],
+  "uUID" : "9cc93782-c1e1-4d0c-bfe0-9ea0ecb2bc55"
+}, {
+  "externalHostName" : "emgm000wo",
+  "externalIP" : "10.16.1.32",
+  "internalHostName" : "ip-10-16-1-32.us-west-2.compute.internal",
+  "internalIP" : "10.16.1.32",
+  "isUp" : true,
+  "pod" : "central",
+  "reachable" : true,
+  "region" : "us-west-2",
+  "tags" : {
+    "property" : [ {
+      "name" : "Profile",
+      "value" : "ManagementServer"
+    }, {
+      "name" : "rpc.port",
+      "value" : "4526"
+    }, {
+      "name" : "http.management.port",
+      "value" : "8080"
+    }, {
+      "name" : "jmx.rmi.port",
+      "value" : "1099"
+    } ]
+  },
+  "type" : [ "management-server" ],
+  "uUID" : "8e6a3f7a-247e-478a-aae9-bc7820838c6d"
+} ]

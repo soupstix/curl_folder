@@ -1,0 +1,4 @@
+[ {
+  "name" : "ewo2gw001",
+  "region" : "us-west-2"
+} ]
