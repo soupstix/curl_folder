@@ -7,7 +7,7 @@ args = parser.parse_args()
 def msg(string):
     print string
     return 'returned string'
-#sys.stdout=open('ofile','w')
+sys.stdout=open('ofile','w')
 print 'hello' 
 print msg('hellooo')
 if args.overridden_facts :
