@@ -9,6 +9,8 @@
   tasks:
     - name: curl orgs
       command: /usr/bin/curl https://api.e2e.apigee.net/v1/o -u supriya.subudhi@apigee.com:Shivani12 -o orgs_file.txt
+#    - name: make pods dir
+#      command: /bin/mkdir pods
 
     - name: curl pods
       command: /usr/bin/curl https://api.e2e.apigee.net/v1/o/{{ item }}/pods -u supriya.subudhi@apigee.com:Shivani12 -o pods/{{ item }}.txt 
